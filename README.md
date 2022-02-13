@@ -1,1 +1,2 @@
-# Algorithm Read Me
+# Algorithm Quick Sort Read Me
+
